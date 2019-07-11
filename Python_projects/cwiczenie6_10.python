@@ -1,0 +1,2 @@
+zdanie = "Dlugo na szturm i szaniec poglodal w milczeniu.Na konie rzekl: 'Stracona'."
+print(zdanie[0:47])

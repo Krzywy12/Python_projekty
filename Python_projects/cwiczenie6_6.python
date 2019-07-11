@@ -1,0 +1,3 @@
+x = "W czasie suszy szosa sucha."
+x = x.replace("s","$")
+print(x)

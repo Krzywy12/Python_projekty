@@ -1,0 +1,4 @@
+#lista krotek,z ktorych kazda bedzie zawierac wspolrzedne geograficzne miejsc,ktore odwiedzilem
+belgrad = (44.49,28.28)
+
+print(belgrad)

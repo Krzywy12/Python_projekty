@@ -1,0 +1,4 @@
+x = ["Zwinny", "lis", "przeskoczyl", "nad", "leniwym", "psem", "."]
+y = " ".join(x)
+n = y.replace(" .",".")
+print(n)

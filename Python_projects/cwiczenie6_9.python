@@ -1,0 +1,2 @@
+x = "trzy " * 3
+print(x)

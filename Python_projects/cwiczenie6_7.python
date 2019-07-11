@@ -1,0 +1,3 @@
+x = "Hemingway"
+y = x.index("m")
+print(y)

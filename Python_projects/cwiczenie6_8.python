@@ -1,0 +1,2 @@
+x = "\"Ale dlaczego?\" - westchnalem"
+print(x)
